@@ -14,6 +14,7 @@ This Power BI project presents a comprehensive analysis of global debt trends ac
 * A ssess sector-specific debt surges over time
 
 * Generate actionable, data-driven policy recommendations
+  
 
   Data Preparation
 * Cleaned and transformed multiple sector-specific sheets in Power Query
@@ -25,7 +26,7 @@ This Power BI project presents a comprehensive analysis of global debt trends ac
 * Created new columns for Income Group, Development Status, and Decade
 
 
-#  Key Insights
+ Key Insights
 * Global Debt Surge: The 2010s and early 2020s saw sharp debt increases driven by stimulus and crises.
 
 * High-Risk Economies: Countries like Cyprus, Hong Kong SAR, and Netherlands lead in government and private debt.
@@ -34,7 +35,7 @@ This Power BI project presents a comprehensive analysis of global debt trends ac
 
 
 
-# Tools & Tech
+Tools & Tech
 * Power BI Desktop
 
 * Microsoft Excel (for raw data prep)
